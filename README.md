@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 This is the official GitHub account of Kennet.
+
+If you ask yourself why I don't have a lot of repositories, Don't.
